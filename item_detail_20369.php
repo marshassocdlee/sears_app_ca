@@ -23,7 +23,7 @@
 
 	<ul class="breadcrumbs">
 	<li><a href="index.html">HOME</a></li>
-	<li>29000</li>
+	<li>20369</li>
 	</ul>
 
 	</div>
@@ -41,22 +41,22 @@
 		<td></td>
 
 		<td colspan="2">
-		<img src="images/29000.jpg" />
+		<img src="images/20369.jpg" />
 		<div class="panel text-center">
-		<h4>29000</h4>
+		<h4>20369</h4>
 		<h6>R1000</h6>
-		<h4>$999.99*</h4>
+		<h4>$1,099.99*</h4>
 		</div>
 		</td>
 
 		<td></td>
 
 		<td colspan="2">
-		<a href="item_detail_20370.php"><img src="images/20370.jpg" /></a>
+		<a href="item_detail_20371.php"><img src="images/20371.jpg" /></a>
 		<div class="panel text-center">
-		<h4><a href="item_detail_20370.php">20370</a></h4>
+		<h4><a href="item_detail_20371.php">20371</a></h4>
 		<h6>T1000</h6>
-		<h4>$999.99*</h4>
+		<h4>$1,099.99*</h4>
 		</div>
 		</td>
 
