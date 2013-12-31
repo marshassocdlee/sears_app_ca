@@ -81,21 +81,21 @@
 			<tr>
 			<th class="text-right">Horsepower</th>
 			<td colspan="2">19.0hp</td>
-			<td style="color:#009900; font-weight:bold">...increased power to do more jobs?</td>
+			<td style="color:#009900; font-weight:bold">...increased power to do more jobs.</td>
 			<td colspan="2">22.0hp</td>
 			</tr>
 	
 			<tr>
 			<th class="text-right">Cylinder</th>
 			<td colspan="2">Single</td>
-			<td style="color:#009900; font-weight:bold">...a cooler, cleaner running engine with less vibration?</td>
+			<td style="color:#009900; font-weight:bold">...a cooler, cleaner running engine with less vibration.</td>
 			<td colspan="2">Twin</td>
 			</tr>
 	
 			<tr>
 			<th class="text-right">Transmission</th>
 			<td colspan="2">Auto Fender CVT</td>
-			<td style="color:#009900; font-weight:bold">...the job done faster and more intuitive operation?</td>
+			<td style="color:#009900; font-weight:bold">...the job done faster and more intuitive operation.</td>
 			<td colspan="2">Fast Auto Pedal CVT</td>
 			</tr>
 	
@@ -116,42 +116,42 @@
 			<tr>
 			<th class="text-right">Engine Size (cc)</th>
 			<td colspan="2">540cc</td>
-			<td style="color:#009900; font-weight:bold">...increased power to do more jobs?</td>
+			<td style="color:#009900; font-weight:bold">...increased power to do more jobs.</td>
 			<td colspan="2">724cc</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Blade Engagement</th>
 			<td colspan="2">Manual</td>
-			<td style="color:#009900; font-weight:bold">...easier operation?</td>
+			<td style="color:#009900; font-weight:bold">...easier operation.</td>
 			<td colspan="2">Electric</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Cutting Positions</th>
 			<td colspan="2">6</td>
-			<td style="color:#009900; font-weight:bold">...more precise cutting?</td>
+			<td style="color:#009900; font-weight:bold">...more precise cutting.</td>
 			<td colspan="2">10</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Max Speed (mph)</th>
 			<td colspan="2">5.5</td>
-			<td style="color:#009900; font-weight:bold">...the job done faster?</td>
+			<td style="color:#009900; font-weight:bold">...the job done faster.</td>
 			<td colspan="2">7.5</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Steering Wheel</th>
 			<td colspan="2">13 in. Standard</td>
-			<td style="color:#009900; font-weight:bold">...greater comfort?</td>
+			<td style="color:#009900; font-weight:bold">...greater comfort.</td>
 			<td colspan="2">13 in. Soft Grip</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Gas Tank Capacity</th>
 			<td colspan="2">2.5 gal</td>
-			<td style="color:#009900; font-weight:bold">...less stopping to refill?</td>
+			<td style="color:#009900; font-weight:bold">...less stopping to refill.</td>
 			<td colspan="2">3.0 gal</td>
 			</tr>
 

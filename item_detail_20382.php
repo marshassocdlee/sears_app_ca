@@ -102,7 +102,7 @@
 			<tr>
 			<th class="text-right">Deck Size (in)</th>
 			<td colspan="2">42</td>
-			<td style="color:#009900; font-weight:bold">...the job done faster?</td>
+			<td style="color:#009900; font-weight:bold">...the job done faster.</td>
 			<td colspan="2">46</td>
 			</tr>
 	

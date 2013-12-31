@@ -73,14 +73,14 @@
 			<tr>
 			<th class="text-right">Engine Brand</th>
 			<td colspan="2">Craftsman</td>
-			<td style="color:#009900; font-weight:bold">...more reliable starting?</td>
+			<td style="color:#009900; font-weight:bold">...more reliable starting.</td>
 			<td colspan="2">Briggs Gold Plus MRS</td>
 			</tr>
 	
 			<tr>
 			<th class="text-right">Horsepower</th>
 			<td colspan="2">420cc</td>
-			<td style="color:#009900; font-weight:bold">...increased power to do more jobs?</td>
+			<td style="color:#009900; font-weight:bold">...increased power to do more jobs.</td>
 			<td colspan="2">19.0hp</td>
 			</tr>
 	
@@ -101,7 +101,7 @@
 			<tr>
 			<th class="text-right">Deck Size (in)</th>
 			<td colspan="2">42</td>
-			<td style="color:#009900; font-weight:bold">...the job done faster?</td>
+			<td style="color:#009900; font-weight:bold">...the job done faster.</td>
 			<td colspan="2">46</td>
 			</tr>
 	
@@ -115,7 +115,7 @@
 			<tr>
 			<th class="text-right">Seat</th>
 			<td colspan="2">Mid Back</td>
-			<td style="color:#009900; font-weight:bold">...greater comfort?</td>
+			<td style="color:#009900; font-weight:bold">...greater comfort.</td>
 			<td colspan="2">High Back</td>
 			</tr>
 

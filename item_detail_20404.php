@@ -82,7 +82,7 @@
 			<tr>
 			<th class="text-right">Horsepower</th>
 			<td colspan="2">24.0hp</td>
-			<td style="color:#009900; font-weight:bold">...increased power to do more jobs?</td>
+			<td style="color:#009900; font-weight:bold">...increased power to do more jobs.</td>
 			<td colspan="2">26.0hp</td>
 			</tr>
 	
@@ -103,7 +103,7 @@
 			<tr>
 			<th class="text-right">Deck Size (in)</th>
 			<td colspan="2">54 in.</td>
-			<td style="color:#009900; font-weight:bold">...added durability?</td>
+			<td style="color:#009900; font-weight:bold">...added durability.</td>
 			<td colspan="2">54 in. reinforced</td>
 			</tr>
 	
@@ -117,21 +117,21 @@
 			<tr>
 			<th class="text-right">Bumper</th>
 			<td colspan="2">Yes</td>
-			<td style="color:#009900; font-weight:bold">...greater front-end protection?</td>
+			<td style="color:#009900; font-weight:bold">...greater front-end protection.</td>
 			<td colspan="2">Brush Guard</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Warranty</th>
 			<td colspan="2">2 Year, 5 Year Frame, Lifetime Front Axle</td>
-			<td style="color:#009900; font-weight:bold">...additional peace of mind?</td>
+			<td style="color:#009900; font-weight:bold">...additional peace of mind.</td>
 			<td colspan="2">3 Year</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Other</th>
 			<td colspan="2"></td>
-			<td style="color:#009900; font-weight:bold">...easier maintenance?</td>
+			<td style="color:#009900; font-weight:bold">...easier maintenance.</td>
 			<td colspan="2">EZ Blade Change</td>
 			</tr>
 

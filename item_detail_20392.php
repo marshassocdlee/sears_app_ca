@@ -75,7 +75,7 @@
 			<tr>
 			<th class="text-right">Engine Brand</th>
 			<td colspan="2">Briggs Platinum</td>
-			<td style="color:#009900; font-weight:bold">...more consistent power?</td>
+			<td style="color:#009900; font-weight:bold">...more consistent power.</td>
 			<td colspan="2">Kohler 7000 elite</td>
 			</tr>
 	
@@ -103,7 +103,7 @@
 			<tr>
 			<th class="text-right">Deck Size (in)</th>
 			<td colspan="2">48 in.</td>
-			<td style="color:#009900; font-weight:bold">...added durability?</td>
+			<td style="color:#009900; font-weight:bold">...added durability.</td>
 			<td colspan="2">42 in. reinforced</td>
 			</tr>
 	
@@ -117,21 +117,21 @@
 			<tr>
 			<th class="text-right">Bumper</th>
 			<td colspan="2">No</td>
-			<td style="color:#009900; font-weight:bold">...front end protection?</td>
+			<td style="color:#009900; font-weight:bold">...front end protection.</td>
 			<td colspan="2">Yes</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Warranty</th>
 			<td colspan="2">2 Year, 5 Year Frame, Lifetime Front Axle</td>
-			<td style="color:#009900; font-weight:bold">...additional peace of mind?</td>
+			<td style="color:#009900; font-weight:bold">...additional peace of mind.</td>
 			<td colspan="2">3 Year</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Other</th>
 			<td colspan="2"></td>
-			<td style="color:#009900; font-weight:bold">...easier maintenance?</td>
+			<td style="color:#009900; font-weight:bold">...easier maintenance.</td>
 			<td colspan="2">EZ Blade Change</td>
 			</tr>
 

@@ -95,14 +95,14 @@
 			<tr>
 			<th class="text-right">Transmission</th>
 			<td colspan="2">6-Speed Shift-on-the-Go</td>
-			<td style="color:#009900; font-weight:bold">...more precise speed control?</td>
+			<td style="color:#009900; font-weight:bold">...more precise speed control.</td>
 			<td colspan="2">7-Speed Shift-on-the-Go</td>
 			</tr>
 	
 			<tr>
 			<th class="text-right">Deck Size (in)</th>
 			<td colspan="2">30</td>
-			<td style="color:#009900; font-weight:bold">...the job done faster?</td>
+			<td style="color:#009900; font-weight:bold">...the job done faster.</td>
 			<td colspan="2">42</td>
 			</tr>
 	
@@ -116,14 +116,14 @@
 			<tr>
 			<th class="text-right">Max Speed (mph)</th>
 			<td colspan="2">5.0</td>
-			<td style="color:#009900; font-weight:bold">...the job done faster?</td>
+			<td style="color:#009900; font-weight:bold">...the job done faster.</td>
 			<td colspan="2">5.5</td>
 			</tr>
 	
 			<tr>
 			<th class="text-right">Warranty</th>
 			<td colspan="2">2 Year</td>
-			<td style="color:#009900; font-weight:bold">...additional peace of mind?</td>
+			<td style="color:#009900; font-weight:bold">...additional peace of mind.</td>
 			<td colspan="2">2 Year Unit, 5 Year Frame, 10 Year Axle</td>
 			</tr>
 

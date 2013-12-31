@@ -74,7 +74,7 @@
 			<tr>
 			<th class="text-right">Engine Brand</th>
 			<td colspan="2">Briggs Gold Plus MRS</td>
-			<td style="color:#009900; font-weight:bold">...longer engine life?</td>
+			<td style="color:#009900; font-weight:bold">...longer engine life.</td>
 			<td colspan="2">Briggs Platinum</td>
 			</tr>
 	
@@ -95,7 +95,7 @@
 			<tr>
 			<th class="text-right">Transmission</th>
 			<td colspan="2">Auto Pedal (CVT)</td>
-			<td style="color:#009900; font-weight:bold">...lower maintenance, smoother speed adjust?</td>
+			<td style="color:#009900; font-weight:bold">...lower maintenance, smoother speed adjust.</td>
 			<td colspan="2">Auto Fender Hydro</td>
 			</tr>
 	
@@ -109,35 +109,35 @@
 			<tr>
 			<th class="text-right">Turning Radius (in)</th>
 			<td colspan="2">18</td>
-			<td style="color:#009900; font-weight:bold">...the job done faster?</td>
+			<td style="color:#009900; font-weight:bold">...the job done faster.</td>
 			<td colspan="2">6</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Axle</th>
 			<td colspan="2">Steel</td>
-			<td style="color:#009900; font-weight:bold">...reduced vibration and greater reliability?</td>
+			<td style="color:#009900; font-weight:bold">...reduced vibration and greater reliability.</td>
 			<td colspan="2">Cast Iron</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Cutting Positions</th>
 			<td colspan="2">5</td>
-			<td style="color:#009900; font-weight:bold">...more precise cutting?</td>
+			<td style="color:#009900; font-weight:bold">...more precise cutting.</td>
 			<td colspan="2">6</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Deck Wheels</th>
 			<td colspan="2">2</td>
-			<td style="color:#009900; font-weight:bold">...a more even cut?</td>
+			<td style="color:#009900; font-weight:bold">...a more even cut.</td>
 			<td colspan="2">4</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Gas Tank Capacity</th>
 			<td colspan="2">1.5 gal</td>
-			<td style="color:#009900; font-weight:bold">...longer mowing time?</td>
+			<td style="color:#009900; font-weight:bold">...longer mowing time.</td>
 			<td colspan="2">2.5 gal</td>
 			</tr>
 

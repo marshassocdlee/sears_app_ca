@@ -94,7 +94,7 @@
 			<tr>
 			<th class="text-right">Transmission</th>
 			<td colspan="2">7-Speed Shift-on-the-Go</td>
-			<td style="color:#009900; font-weight:bold">...more intuitive operation?</td>
+			<td style="color:#009900; font-weight:bold">...more intuitive operation.</td>
 			<td colspan="2">Auto Pedal (CVT)</td>
 			</tr>
 	
@@ -115,21 +115,21 @@
 			<tr>
 			<th class="text-right">Deck Wheels</th>
 			<td colspan="2">N/A</td>
-			<td style="color:#009900; font-weight:bold">...a more even cut?</td>
+			<td style="color:#009900; font-weight:bold">...a more even cut.</td>
 			<td colspan="2">2</td>
 			</tr>
 	
 			<tr>
 			<th class="text-right">Mow in Reverse</th>
 			<td colspan="2">No</td>
-			<td style="color:#009900; font-weight:bold">...the ability to mow in reverse?</td>
+			<td style="color:#009900; font-weight:bold">...the ability to mow in reverse.</td>
 			<td colspan="2">Yes</td>
 			</tr>
 	
 			<tr>
 			<th class="text-right">Seat</th>
 			<td colspan="2">Low Back</td>
-			<td style="color:#009900; font-weight:bold">...greater comfort?</td>
+			<td style="color:#009900; font-weight:bold">...greater comfort.</td>
 			<td colspan="2">Mid Back</td>
 			</tr>
 	

@@ -82,7 +82,7 @@
 			<tr>
 			<th class="text-right">Horsepower</th>
 			<td colspan="2">22.0hp</td>
-			<td style="color:#009900; font-weight:bold">...increased power to do more jobs?</td>
+			<td style="color:#009900; font-weight:bold">...increased power to do more jobs.</td>
 			<td colspan="2">26.0hp</td>
 			</tr>
 	
@@ -103,7 +103,7 @@
 			<tr>
 			<th class="text-right">Deck Size (in)</th>
 			<td colspan="2">42 in.reinforced</td>
-			<td style="color:#009900; font-weight:bold">...the job done faster?</td>
+			<td style="color:#009900; font-weight:bold">...the job done faster.</td>
 			<td colspan="2">54 in. reinforced</td>
 			</tr>
 	
@@ -117,35 +117,35 @@
 			<tr>
 			<th class="text-right">Seat</th>
 			<td colspan="2">High Back</td>
-			<td style="color:#009900; font-weight:bold">...additional peace of mind?</td>
+			<td style="color:#009900; font-weight:bold">...additional peace of mind.</td>
 			<td colspan="2">High Back w/ Arm Rests</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Brand</th>
 			<td colspan="2">Craftsman Pro Series</td>
-			<td style="color:#009900; font-weight:bold">...the ability to do more tasks with your tractor? (ground engaging work, heavy duty hauling, snow removal, etc.)</td>
+			<td style="color:#009900; font-weight:bold">...the ability to do more tasks with your tractor. (ground engaging work, heavy duty hauling, snow removal, etc.)</td>
 			<td colspan="2">Craftsman Pro Series GT</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Cutting Positions</th>
 			<td colspan="2">10</td>
-			<td style="color:#009900; font-weight:bold">...more precise cutting?</td>
+			<td style="color:#009900; font-weight:bold">...more precise cutting.</td>
 			<td colspan="2">12</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Seat</th>
 			<td colspan="2">High Back</td>
-			<td style="color:#009900; font-weight:bold">...greater comfort?</td>
+			<td style="color:#009900; font-weight:bold">...greater comfort.</td>
 			<td colspan="2">High Back w/ Arm Rests</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Bumper</th>
 			<td colspan="2">Yes</td>
-			<td style="color:#009900; font-weight:bold">...greater front-end protection?</td>
+			<td style="color:#009900; font-weight:bold">...greater front-end protection.</td>
 			<td colspan="2">Brush Guard</td>
 			</tr>
 
