@@ -41,15 +41,15 @@
 		<td></td>
 
 		<td>
-		<a href="item_detail_20401.php"><img src="images/20401.jpg" style="max-width:100px" /></a>
+		<a href="item_detail_20402.php"><img src="images/20402.jpg" style="max-width:100px" /></a>
 		</td>
 
 		<td>
-		<a href="item_detail_20403.php"><img src="images/20403.jpg" style="max-width:100px" /></a>
+		<a href="item_detail_20404.php"><img src="images/20404.jpg" style="max-width:100px" /></a>
 		</td>
 
 		<td>
-		<a href="item_detail_98645.php"><img src="images/98645.jpg" style="max-width:100px" /></a>
+		<a href="item_detail_98644.php"><img src="images/98644.jpg" style="max-width:100px" /></a>
 		</td>
 
 		</tr>
@@ -59,9 +59,9 @@
 
 			<tr>
 			<th class="text-right">Sears Item Number</th>
-			<td><a href="item_detail_20401.php">20401</a></td>
-			<td><a href="item_detail_20403.php">20403</a></td>
-			<td><a href="item_detail_98645.php">98645</a></td>
+			<td><a href="item_detail_20402.php">20402</a></td>
+			<td><a href="item_detail_20404.php">20404</a></td>
+			<td><a href="item_detail_98644.php">98644</a></td>
 			</tr>
 
 			<tr>
@@ -73,9 +73,9 @@
 
 			<tr>
 			<th class="text-right">Retail Price*</th>
-			<td>$2,599.99*</td>
-			<td>$2,999.99*</td>
-			<td>$2,999.99*</td>
+			<td>$2,699.99*</td>
+			<td>$3,099.99*</td>
+			<td>$3,099.99*</td>
 			</tr>
 
 			<tr>

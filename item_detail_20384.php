@@ -24,7 +24,7 @@
 	<ul class="breadcrumbs">
 	<li><a href="index.html">HOME</a></li>
 	<li><a href="item_linesheet_t2000.php">T2000 Series</a></li>
-	<li>20381</li>
+	<li>20384</li>
 	</ul>
 
 	</div>
@@ -42,22 +42,22 @@
 		<td></td>
 
 		<td colspan="2">
-		<img src="images/20381.jpg" />
+		<img src="images/20384.jpg" />
 		<div class="panel text-center">
-		<h4>20381</h4>
-		<h6>T2200</h6>
-		<h4>$1,449.99*</h4>
+		<h4>20384</h4>
+		<h6>T2400</h6>
+		<h4>$1,599.99*</h4>
 		</div>
 		</td>
 
 		<td></td>
 
 		<td colspan="2">
-		<a href="item_detail_20378.php"><img src="images/20378.jpg" /></a>
+		<a href="item_detail_20392.php"><img src="images/20392.jpg" /></a>
 		<div class="panel text-center">
-		<h4><a href="item_detail_20378.php">20378</a></h4>
-		<h6>T2500</h6>
-		<h4>$1,599.99*</h4>
+		<h4><a href="item_detail_20392.php">20392</a></h4>
+		<h6>T3200</h6>
+		<h4>$2,099.99*</h4>
 		</div>
 		</td>
 
@@ -74,36 +74,36 @@
 			<tr>
 			<th class="text-right">Engine Brand</th>
 			<td colspan="2">Briggs Platinum</td>
-			<td style="color:#009900; font-weight:bold">...more consistent power?</td>
-			<td colspan="2">Kohler 7000</td>
+			<td></td>
+			<td colspan="2">Briggs Platinum</td>
 			</tr>
 	
 			<tr>
 			<th class="text-right">Horsepower</th>
 			<td colspan="2">19.0hp</td>
-			<td></td>
-			<td colspan="2">19.0hp</td>
+			<td style="color:#009900; font-weight:bold">...increased power to do more jobs?</td>
+			<td colspan="2">22.0hp</td>
 			</tr>
 	
 			<tr>
 			<th class="text-right">Cylinder</th>
 			<td colspan="2">Single</td>
-			<td></td>
-			<td colspan="2">Single</td>
+			<td style="color:#009900; font-weight:bold">...a cooler, cleaner running engine with less vibration?</td>
+			<td colspan="2">Twin</td>
 			</tr>
 	
 			<tr>
 			<th class="text-right">Transmission</th>
-			<td colspan="2">Auto Fender Hydro</td>
-			<td></td>
 			<td colspan="2">Auto Fender CVT</td>
+			<td style="color:#009900; font-weight:bold">...the job done faster and more intuitive operation?</td>
+			<td colspan="2">Fast Auto Pedal CVT</td>
 			</tr>
 	
 			<tr>
 			<th class="text-right">Deck Size (in)</th>
-			<td colspan="2">42</td>
+			<td colspan="2">46</td>
 			<td></td>
-			<td colspan="2">42</td>
+			<td colspan="2">48</td>
 			</tr>
 	
 			<tr>
@@ -112,12 +112,47 @@
 			<td></td>
 			<td colspan="2">6</td>
 			</tr>
-	
+
 			<tr>
 			<th class="text-right">Engine Size (cc)</th>
 			<td colspan="2">540cc</td>
 			<td style="color:#009900; font-weight:bold">...increased power to do more jobs?</td>
-			<td colspan="2">597cc</td>
+			<td colspan="2">724cc</td>
+			</tr>
+
+			<tr>
+			<th class="text-right">Blade Engagement</th>
+			<td colspan="2">Manual</td>
+			<td style="color:#009900; font-weight:bold">...easier operation?</td>
+			<td colspan="2">Electric</td>
+			</tr>
+
+			<tr>
+			<th class="text-right">Cutting Positions</th>
+			<td colspan="2">6</td>
+			<td style="color:#009900; font-weight:bold">...more precise cutting?</td>
+			<td colspan="2">10</td>
+			</tr>
+
+			<tr>
+			<th class="text-right">Max Speed (mph)</th>
+			<td colspan="2">5.5</td>
+			<td style="color:#009900; font-weight:bold">...the job done faster?</td>
+			<td colspan="2">7.5</td>
+			</tr>
+
+			<tr>
+			<th class="text-right">Steering Wheel</th>
+			<td colspan="2">13 in. Standard</td>
+			<td style="color:#009900; font-weight:bold">...greater comfort?</td>
+			<td colspan="2">13 in. Soft Grip</td>
+			</tr>
+
+			<tr>
+			<th class="text-right">Gas Tank Capacity</th>
+			<td colspan="2">2.5 gal</td>
+			<td style="color:#009900; font-weight:bold">...less stopping to refill?</td>
+			<td colspan="2">3.0 gal</td>
 			</tr>
 
 	
@@ -131,23 +166,15 @@
 
 <tr><th class="text-right">Axle</th><td colspan="2">Cast Iron</td><td></td><td colspan="2">Cast Iron</td></tr>
 
-<tr><th class="text-right">Blade Engagement</th><td colspan="2">Manual</td><td></td><td colspan="2">Manual</td></tr>
-
 <tr><th class="text-right">Cutting Positions</th><td colspan="2">6</td><td></td><td colspan="2">6</td></tr>
 
 <tr><th class="text-right">Deck Wheels</th><td colspan="2">4</td><td></td><td colspan="2">4</td></tr>
 
 <tr><th class="text-right">Deck Wash</th><td colspan="2">Yes</td><td></td><td colspan="2">Yes</td></tr>
 
-<tr><th class="text-right">Max Speed (mph)</th><td colspan="2">5.5</td><td></td><td colspan="2">5.5</td></tr>
-
 <tr><th class="text-right">Mow in Reverse</th><td colspan="2">Yes</td><td></td><td colspan="2">Yes</td></tr>
 
 <tr><th class="text-right">Seat</th><td colspan="2">High Back</td><td></td><td colspan="2">High Back</td></tr>
-
-<tr><th class="text-right">Steering Wheel</th><td colspan="2">13in. Standard</td><td></td><td colspan="2">13in. Standard</td></tr>
-
-<tr><th class="text-right">Gas Tank Capacity</th><td colspan="2">2.5 gal</td><td></td><td colspan="2">2.5 gal</td></tr>
 
 <tr><th class="text-right">Bumper</th><td colspan="2">No</td><td></td><td colspan="2">No</td></tr>
 
@@ -169,7 +196,39 @@
 
 		<tbody id="add_attachments" class="hidden">
 
-<tr><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr><tr><th class="text-right">ATTACHMENTS</th><th>Stock No.</th><th>Part No.</th><th></th><th>Stock No.</th><th>Part No.</th></tr><tr><th style="text-align:right">Bagger</th><td>24891<br />24892<br />24897</td><td></td><td>&nbsp;</td><td>24903<br />24904</td><td></td></tr><tr><th style="text-align:right">Carts</th><td>24043<br />24045<br />24489<br />24355<br />24147<br />24065</td><td></td><td>&nbsp;</td><td>24043<br />24045<br />24489<br />24355<br />24147<br />24065</td><td></td></tr><tr><th style="text-align:right">Bumper Kit</th><td>24611<br />24612<br />24628</td><td></td><td>&nbsp;</td><td>24611<br />24612<br />24628</td><td></td></tr><tr><th style="text-align:right">Lawn Rollers</th><td>24250<br />24251</td><td></td><td>&nbsp;</td><td>24250<br />24251</td><td></td></tr><tr><th style="text-align:right">Sweepers</th><td>24783<br />24222<br />24644</td><td></td><td>&nbsp;</td><td>24783<br />24222<br />24644</td><td></td></tr><tr><th style="text-align:right">Dethatcher/Aerators</th><td>24315<br />24006<br />24336<br />24326<br />24350</td><td></td><td>&nbsp;</td><td>24315<br />24006<br />24336<br />24326<br />24350</td><td></td></tr><tr><th style="text-align:right">Spreaders</th><td>24322<br />24321<br />24331<br />24009</td><td></td><td>&nbsp;</td><td>24322<br />24321<br />24331<br />24009</td><td></td></tr><tr><th style="text-align:right">Sprayers</th><td></td><td>24531<br />24533</td><td>&nbsp;</td><td>24531<br />24533</td><td></td></tr><tr><th style="text-align:right">Snow Equipment</th><td>24441<br />24837<br />25840<br />24276<br />24862<br />24434<br />24100</td><td></td><td>&nbsp;</td><td>24441<br />24837<br />25840<br />24276<br />24862<br />24434<br />24100</td><td></td></tr><tr><th style="text-align:right">Lawn Vacs</th><td>25012<br />25013</td><td></td><td>&nbsp;</td><td>25012<br />25013</td><td></td></tr><tr><th style="text-align:right">Sun Shade</th><td>24230</td><td></td><td>&nbsp;</td><td>24230</td><td></td></tr><tr><th style="text-align:right">Ground Engagement</th><td>24847<br />24003</td><td></td><td>&nbsp;</td><td>24847<br />24003</td><td></td></tr><tr><th style="text-align:right">Mulch Kit</th><td>33742</td><td></td><td>&nbsp;</td><td>33746</td><td></td></tr><tr><th style="text-align:right">Weight Kit</th><td>24100</td><td></td><td>&nbsp;</td><td>24100</td><td></td></tr><tr><th style="text-align:right">Weight</th><td></td><td></td><td>&nbsp;</td><td></td><td></td></tr>
+<tr><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr>
+
+<tr><th class="text-right">ATTACHMENTS</th><th>Stock No.</th><th>Part No.</th><th></th><th>Stock No.</th><th>Part No.</th></tr>
+
+<tr><th style="text-align:right">Bagger</th><td>24903<br />24904</td><td></td><td>&nbsp;</td><td>24903<br />24904</td><td></td></tr>
+
+<tr><th style="text-align:right">Carts</th><td>24043<br />24045<br />24489<br />24355<br />24147<br />24065</td><td></td><td>&nbsp;</td><td>24043<br />24045<br />24489<br />24355<br />24147<br />24065</td><td></td></tr>
+
+<tr><th style="text-align:right">Bumper Kit</th><td>24611<br />24612<br />24628</td><td></td><td>&nbsp;</td><td>24611<br />24612<br />24628</td><td></td></tr>
+
+<tr><th style="text-align:right">Lawn Rollers</th><td>24250<br />24251</td><td></td><td>&nbsp;</td><td>24250<br />24251</td><td></td></tr>
+
+<tr><th style="text-align:right">Sweepers</th><td>24783<br />24222<br />24644</td><td></td><td>&nbsp;</td><td>24783<br />24222<br />24644</td><td></td></tr>
+
+<tr><th style="text-align:right">Dethatcher/Aerators</th><td>24315<br />24006<br />24336<br />24326<br />24350</td><td></td><td>&nbsp;</td><td>24315<br />24006<br />24336<br />24326<br />24350</td><td></td></tr>
+
+<tr><th style="text-align:right">Spreaders</th><td>24322<br />24321<br />24331<br />24009</td><td></td><td>&nbsp;</td><td>24322<br />24321<br />24331<br />24009</td><td></td></tr>
+
+<tr><th style="text-align:right">Sprayers</th><td>24531<br />24533</td><td></td><td>&nbsp;</td><td>24531<br />24533</td><td></td></tr>
+
+<tr><th style="text-align:right">Snow Equipment</th><td>24441<br />24837<br />25840<br />24276<br />24862<br />24434<br />24100</td><td></td><td>&nbsp;</td><td>24441<br />24837<br />25840<br />24276<br />24862<br />24434<br />24100</td><td></td></tr>
+
+<tr><th style="text-align:right">Lawn Vacs</th><td>25012<br />25013</td><td></td><td>&nbsp;</td><td>25012<br />25013</td><td></td></tr>
+
+<tr><th style="text-align:right">Sun Shade</th><td>24230</td><td></td><td>&nbsp;</td><td>24230</td><td></td></tr>
+
+<tr><th style="text-align:right">Ground Engagement</th><td>24847<br />24003</td><td></td><td>&nbsp;</td><td>24847<br />24003</td><td></td></tr>
+
+<tr><th style="text-align:right">Mulch Kit</th><td>33746</td><td></td><td>&nbsp;</td><td>33746</td><td></td></tr>
+
+<tr><th style="text-align:right">Weight Kit</th><td>24100</td><td></td><td>&nbsp;</td><td>24100</td><td></td></tr>
+
+<tr><th style="text-align:right">Weight</th><td></td><td></td><td>&nbsp;</td><td></td><td></td></tr>
 
 		</tbody>
 
@@ -185,7 +244,31 @@
 
 		<tbody id="add_accessories" class="hidden">
 
-<tr><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr><tr><th class="text-right">ACCESSORIES</th><th>Stock No.</th><th>Part No.</th><th></th><th>Stock No.</th><th>Part No.</th></tr><tr><th style="text-align:right">Oil Filter</th><td></td><td></td><td>&nbsp;</td><td>33935</td><td></td></tr><tr><th style="text-align:right">Air Filter</th><td></td><td></td><td>&nbsp;</td><td>33097</td><td></td></tr><tr><th style="text-align:right">Spark Plug</th><td></td><td></td><td>&nbsp;</td><td>33456</td><td></td></tr><tr><th style="text-align:right">Fuel Filter</th><td></td><td></td><td>&nbsp;</td><td>33392</td><td></td></tr><tr><th style="text-align:right">Blades</th><td></td><td></td><td>&nbsp;</td><td>33285</td><td></td></tr><tr><th style="text-align:right">Tractor Drive Belt</th><td></td><td></td><td>&nbsp;</td><td></td><td>125907X</td></tr><tr><th style="text-align:right">Lower Drive Belt</th><td></td><td></td><td>&nbsp;</td><td></td><td></td></tr><tr><th style="text-align:right">Deck Belt</th><td></td><td></td><td>&nbsp;</td><td>33156</td><td></td></tr><tr><th style="text-align:right">Deck Spindle</th><td></td><td></td><td>&nbsp;</td><td></td><td></td></tr><tr><th style="text-align:right">Ignition Key</th><td></td><td></td><td>&nbsp;</td><td></td><td></td></tr><tr><th style="text-align:right">Fuel Cap</th><td></td><td></td><td>&nbsp;</td><td></td><td></td></tr>
+<tr><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr>
+
+<tr><th class="text-right">ACCESSORIES</th><th>Stock No.</th><th>Part No.</th><th></th><th>Stock No.</th><th>Part No.</th></tr>
+
+<tr><th style="text-align:right">Oil Filter</th><td>33935</td><td></td><td>&nbsp;</td><td>24606</td><td></td></tr>
+
+<tr><th style="text-align:right">Air Filter</th><td>33097</td><td></td><td>&nbsp;</td><td>24642</td><td></td></tr>
+
+<tr><th style="text-align:right">Spark Plug</th><td>33456</td><td></td><td>&nbsp;</td><td>33456</td><td></td></tr>
+
+<tr><th style="text-align:right">Fuel Filter</th><td>33392</td><td></td><td>&nbsp;</td><td>33392</td><td></td></tr>
+
+<tr><th style="text-align:right">Blades</th><td>33285</td><td></td><td>&nbsp;</td><td>33285</td><td></td></tr>
+
+<tr><th style="text-align:right">Tractor Drive Belt</th><td></td><td>125907X</td><td>&nbsp;</td><td></td><td>197253</td></tr>
+
+<tr><th style="text-align:right">Lower Drive Belt</th><td></td><td></td><td>&nbsp;</td><td></td><td></td></tr>
+
+<tr><th style="text-align:right">Deck Belt</th><td>33156</td><td></td><td>&nbsp;</td><td>33156</td><td></td></tr>
+
+<tr><th style="text-align:right">Deck Spindle</th><td></td><td></td><td>&nbsp;</td><td></td><td></td></tr>
+
+<tr><th style="text-align:right">Ignition Key</th><td></td><td></td><td>&nbsp;</td><td></td><td></td></tr>
+
+<tr><th style="text-align:right">Fuel Cap</th><td></td><td></td><td>&nbsp;</td><td></td><td></td></tr>
 
 		</tbody>
 
@@ -198,8 +281,6 @@
 			</td>
 			<td></td>
 			</tr>
-
-
 
 		</table>
 

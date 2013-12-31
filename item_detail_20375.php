@@ -24,7 +24,7 @@
 	<ul class="breadcrumbs">
 	<li><a href="index.html">HOME</a></li>
 	<li><a href="item_linesheet_t1000.php">T1000 Series</a></li>
-	<li>20374</li>
+	<li>20375</li>
 	</ul>
 
 	</div>
@@ -42,22 +42,22 @@
 		<td></td>
 
 		<td colspan="2">
-		<img src="images/20374.jpg" />
+		<img src="images/20375.jpg" />
 		<div class="panel text-center">
-		<h4>20374</h4>
+		<h4>20375</h4>
 		<h6>T1600</h6>
-		<h4>$1,299.99*</h4>
+		<h4>$1,399.99*</h4>
 		</div>
 		</td>
 
 		<td></td>
 
 		<td colspan="2">
-		<a href="item_detail_20381.php"><img src="images/20381.jpg" /></a>
+		<a href="item_detail_20382.php"><img src="images/20382.jpg" /></a>
 		<div class="panel text-center">
-		<h4><a href="item_detail_20381.php">20381</a></h4>
+		<h4><a href="item_detail_20382.php">20382</a></h4>
 		<h6>T2200</h6>
-		<h4>$1,449.99*</h4>
+		<h4>$1,549.99*</h4>
 		</div>
 		</td>
 

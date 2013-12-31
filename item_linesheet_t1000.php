@@ -41,19 +41,15 @@
 		<td></td>
 
 		<td>
-		<a href="item_detail_20370.php"><img src="images/20370.jpg" style="max-width:100px" /></a>
+		<a href="item_detail_20371.php"><img src="images/20371.jpg" style="max-width:100px" /></a>
 		</td>
 
 		<td>
-		<a href="item_detail_20372.php"><img src="images/20372.jpg" style="max-width:100px" /></a>
+		<a href="item_detail_20377.php"><img src="images/20377.jpg" style="max-width:100px" /></a>
 		</td>
 
 		<td>
-		<a href="item_detail_20373.php"><img src="images/20373.jpg" style="max-width:100px" /></a>
-		</td>
-
-		<td>
-		<a href="item_detail_20374.php"><img src="images/20374.jpg" style="max-width:100px" /></a>
+		<a href="item_detail_20375.php"><img src="images/20375.jpg" style="max-width:100px" /></a>
 		</td>
 
 		</tr>
@@ -63,31 +59,27 @@
 
 			<tr>
 			<th class="text-right">Sears Item Number</th>
-			<td><a href="item_detail_20370.php">20370</a></td>
-			<td><a href="item_detail_20372.php">20372</a></td>
-			<td><a href="item_detail_20373.php">20373</a></td>
-			<td><a href="item_detail_20374.php">20374</a></td>
+			<td><a href="item_detail_20371.php">20371</a></td>
+			<td><a href="item_detail_20377.php">20377</a></td>
+			<td><a href="item_detail_20375.php">20375</a></td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Series/Category</th>
 			<td>T1000</td>
 			<td>T1200</td>
-			<td>T1400</td>
 			<td>T1600</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Retail Price*</th>
-			<td>$999.99*</td>
 			<td>$1,099.99*</td>
 			<td>$1,199.99*</td>
-			<td>$1,299.99*</td>
+			<td>$1,399.99*</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Brand</th>
-			<td>Craftsman</td>
 			<td>Craftsman</td>
 			<td>Craftsman</td>
 			<td>Craftsman</td>
@@ -97,7 +89,6 @@
 			<th class="text-right">Engine Brand</th>
 			<td>Craftsman</td>
 			<td>Craftsman</td>
-			<td>Briggs Gold</td>
 			<td>Briggs Gold Plus MRS</td>
 			</tr>
 
@@ -105,7 +96,6 @@
 			<th class="text-right">Horse Power</th>
 			<td>420cc</td>
 			<td>420cc</td>
-			<td>17.5 hp</td>
 			<td>19.0 hp</td>
 			</tr>
 
@@ -113,13 +103,11 @@
 			<th class="text-right">Engine Size (cc)</th>
 			<td>420cc</td>
 			<td>420cc</td>
-			<td>500cc</td>
 			<td>540cc</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Craftsman Complete Start&trade;</th>
-			<td>No</td>
 			<td>No</td>
 			<td>No</td>
 			<td>No</td>
@@ -130,13 +118,11 @@
 			<td>Single</td>
 			<td>Single</td>
 			<td>Single</td>
-			<td>Single</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Lube</th>
 			<td>Full Pressure</td>
-			<td>Pressure</td>
 			<td>Pressure</td>
 			<td>Pressure</td>
 			</tr>
@@ -146,12 +132,10 @@
 			<td>7-Speed Shift-On-the-Go</td>
 			<td>Auto Pedal (CVT)</td>
 			<td>Auto Pedal (CVT)</td>
-			<td>Auto Pedal (CVT)</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Deck Size (in.)</th>
-			<td>42 in.</td>
 			<td>42 in.</td>
 			<td>42 in.</td>
 			<td>46 in.</td>
@@ -162,12 +146,10 @@
 			<td>18 in.</td>
 			<td>18 in.</td>
 			<td>18 in.</td>
-			<td>18 in.</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Axle</th>
-			<td>Steel</td>
 			<td>Steel</td>
 			<td>Steel</td>
 			<td>Steel</td>
@@ -178,12 +160,10 @@
 			<td>Manual</td>
 			<td>Manual</td>
 			<td>Manual</td>
-			<td>Manual</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Cutting Positions</th>
-			<td>5</td>
 			<td>5</td>
 			<td>5</td>
 			<td>5</td>
@@ -194,12 +174,10 @@
 			<td>N/A</td>
 			<td>2</td>
 			<td>2</td>
-			<td>2</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Deck Wash</th>
-			<td>No</td>
 			<td>No</td>
 			<td>No</td>
 			<td>Yes</td>
@@ -210,13 +188,11 @@
 			<td>5.5 mph</td>
 			<td>5.5 mph</td>
 			<td>5.5 mph</td>
-			<td>5.5 mph</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Mow in Reverse</th>
 			<td>No</td>
-			<td>Yes</td>
 			<td>Yes</td>
 			<td>Yes</td>
 			</tr>
@@ -225,13 +201,11 @@
 			<th class="text-right">Seat</th>
 			<td>Low Back</td>
 			<td>Mid Back</td>
-			<td>Mid Back</td>
 			<td>High Back</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Steering Wheel</th>
-			<td>13 in. Standard</td>
 			<td>13 in. Standard</td>
 			<td>13 in. Standard</td>
 			<td>13 in. Soft Grip</td>
@@ -242,12 +216,10 @@
 			<td>1.5 gal</td>
 			<td>1.5 gal</td>
 			<td>1.5 gal</td>
-			<td>1.5 gal</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Bumper</th>
-			<td>No</td>
 			<td>No</td>
 			<td>No</td>
 			<td>No</td>
@@ -258,7 +230,6 @@
 			<td>Yes</td>
 			<td>Yes</td>
 			<td>Yes</td>
-			<td>Yes</td>
 			</tr>
 
 			<tr>
@@ -266,12 +237,10 @@
 			<td>2 Year Unit, 5 Year Frame, 10 Year Axle</td>
 			<td>2 Year Unit, 5 Year Frame, 10 Year Axle</td>
 			<td>2 Year Unit, 5 Year Frame, 10 Year Axle</td>
-			<td>2 Year Unit, 5 Year Frame, 10 Year Axle</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Other</th>
-			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>

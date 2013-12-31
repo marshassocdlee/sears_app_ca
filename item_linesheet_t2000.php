@@ -41,23 +41,11 @@
 		<td></td>
 
 		<td>
-		<a href="item_detail_20380.php"><img src="images/20380.jpg" style="max-width:100px" /></a>
+		<a href="item_detail_20382.php"><img src="images/20382.jpg" style="max-width:100px" /></a>
 		</td>
 
 		<td>
-		<a href="item_detail_20381.php"><img src="images/20381.jpg" style="max-width:100px" /></a>
-		</td>
-
-		<td>
-		<a href="item_detail_20383.php"><img src="images/20383.jpg" style="max-width:100px" /></a>
-		</td>
-
-		<td>
-		<a href="item_detail_20378.php"><img src="images/20378.jpg" style="max-width:100px" /></a>
-		</td>
-
-		<td>
-		<a href="item_detail_20385.php"><img src="images/20385.jpg" style="max-width:100px" /></a>
+		<a href="item_detail_20384.php"><img src="images/20384.jpg" style="max-width:100px" /></a>
 		</td>
 
 		</tr>
@@ -67,36 +55,24 @@
 
 			<tr>
 			<th class="text-right">Sears Item Number</th>
-			<td><a href="item_detail_20380.php">20380</a></td>
-			<td><a href="item_detail_20381.php">20381</a></td>
-			<td><a href="item_detail_20383.php">20383</a></td>
-			<td><a href="item_detail_20378.php">20378</a></td>
-			<td><a href="item_detail_20385.php">20385</a></td>
+			<td><a href="item_detail_20382.php">20382</a></td>
+			<td><a href="item_detail_20384.php">20384</a></td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Series/Category</th>
-			<td>T2000</td>
 			<td>T2200</td>
 			<td>T2400</td>
-			<td>T2500</td>
-			<td>T2600</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Retail Price*</th>
-			<td>$1,399.99*</td>
-			<td>$1,449.99*</td>
-			<td>$1,499.99*</td>
+			<td>$1,549.99*</td>
 			<td>$1,599.99*</td>
-			<td>$1,649.99*</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Brand</th>
-			<td>Craftsman</td>
-			<td>Craftsman</td>
-			<td>Craftsman</td>
 			<td>Craftsman</td>
 			<td>Craftsman</td>
 			</tr>
@@ -105,16 +81,10 @@
 			<th class="text-right">Engine Brand</th>
 			<td>Briggs Platinum</td>
 			<td>Briggs Platinum</td>
-			<td>Briggs Platinum</td>
-			<td>Kohler 7000</td>
-			<td>Kohler Courage</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Horse Power</th>
-			<td>19.0 hp</td>
-			<td>19.0 hp</td>
-			<td>19.0 hp</td>
 			<td>19.0 hp</td>
 			<td>19.0 hp</td>
 			</tr>
@@ -123,16 +93,10 @@
 			<th class="text-right">Engine Size (cc)</th>
 			<td>540cc</td>
 			<td>540cc</td>
-			<td>540cc</td>
-			<td>597cc</td>
-			<td>597cc</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Craftsman Complete Start&trade;</th>
-			<td>No</td>
-			<td>No</td>
-			<td>No</td>
 			<td>No</td>
 			<td>No</td>
 			</tr>
@@ -141,34 +105,22 @@
 			<th class="text-right">Cylinder</th>
 			<td>Single</td>
 			<td>Single</td>
-			<td>Single</td>
-			<td>Single</td>
-			<td>Single</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Lube</th>
 			<td>Full Pressure</td>
 			<td>Full Pressure</td>
-			<td>Full Pressure</td>
-			<td>Full Pressure</td>
-			<td>Full Pressure</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Transmission</th>
-			<td>Manual</td>
 			<td>Auto Fender Hydro</td>
-			<td>Auto Fender CVT</td>
-			<td>Auto Fender CVT</td>
 			<td>Auto Fender CVT</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Deck Size (in.)</th>
-			<td>42 in.</td>
-			<td>42 in.</td>
-			<td>46 in.</td>
 			<td>42 in.</td>
 			<td>46 in.</td>
 			</tr>
@@ -177,16 +129,10 @@
 			<th class="text-right">Turning Radius (in.)</th>
 			<td>6 in.</td>
 			<td>6 in.</td>
-			<td>6 in.</td>
-			<td>6 in.</td>
-			<td>6 in.</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Axle</th>
-			<td>Cast Iron</td>
-			<td>Cast Iron</td>
-			<td>Cast Iron</td>
 			<td>Cast Iron</td>
 			<td>Cast Iron</td>
 			</tr>
@@ -195,16 +141,10 @@
 			<th class="text-right">Blade Engagement (PTO)</th>
 			<td>Manual</td>
 			<td>Manual</td>
-			<td>Manual</td>
-			<td>Manual</td>
-			<td>Manual</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Cutting Positions</th>
-			<td>6</td>
-			<td>6</td>
-			<td>6</td>
 			<td>6</td>
 			<td>6</td>
 			</tr>
@@ -213,16 +153,10 @@
 			<th class="text-right">Deck Wheels</th>
 			<td>4</td>
 			<td>4</td>
-			<td>4</td>
-			<td>4</td>
-			<td>4</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Deck Wash</th>
-			<td>Yes</td>
-			<td>Yes</td>
-			<td>Yes</td>
 			<td>Yes</td>
 			<td>Yes</td>
 			</tr>
@@ -231,16 +165,10 @@
 			<th class="text-right">Max Speed (mph)</th>
 			<td>5.5 mph</td>
 			<td>5.5 mph</td>
-			<td>5.5 mph</td>
-			<td>5.5 mph</td>
-			<td>5.5 mph</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Mow in Reverse</th>
-			<td>Yes</td>
-			<td>Yes</td>
-			<td>Yes</td>
 			<td>Yes</td>
 			<td>Yes</td>
 			</tr>
@@ -249,16 +177,10 @@
 			<th class="text-right">Seat</th>
 			<td>High Back</td>
 			<td>High Back</td>
-			<td>High Back</td>
-			<td>High Back</td>
-			<td>High Back</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Steering Wheel</th>
-			<td>13 in. Standard</td>
-			<td>13 in. Standard</td>
-			<td>13 in. Standard</td>
 			<td>13 in. Standard</td>
 			<td>13 in. Standard</td>
 			</tr>
@@ -267,16 +189,10 @@
 			<th class="text-right">Gas Tank Capacity</th>
 			<td>2.5 gal</td>
 			<td>2.5 gal</td>
-			<td>2.5 gal</td>
-			<td>2.5 gal</td>
-			<td>2.5 gal</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Bumper</th>
-			<td>No</td>
-			<td>No</td>
-			<td>No</td>
 			<td>No</td>
 			<td>No</td>
 			</tr>
@@ -285,25 +201,16 @@
 			<th class="text-right">Headlights</th>
 			<td>Yes</td>
 			<td>Yes</td>
-			<td>Yes</td>
-			<td>Yes</td>
-			<td>Yes</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Warranty</th>
 			<td>2 Year Unit, 5 Year Frame, Lifetime Front Axle</td>
 			<td>2 Year Unit, 5 Year Frame, Lifetime Front Axle</td>
-			<td>2 Year Unit, 5 Year Frame, Lifetime Front Axle</td>
-			<td>2 Year Unit, 5 Year Frame, Lifetime Front Axle</td>
-			<td>2 Year Unit, 5 Year Frame, Lifetime Front Axle</td>
 			</tr>
 
 			<tr>
 			<th class="text-right">Other</th>
-			<td></td>
-			<td></td>
-			<td></td>
 			<td></td>
 			<td></td>
 			</tr>

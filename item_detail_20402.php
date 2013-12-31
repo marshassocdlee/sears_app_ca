@@ -24,7 +24,7 @@
 	<ul class="breadcrumbs">
 	<li><a href="index.html">HOME</a></li>
 	<li><a href="item_linesheet_garden.php">G5000/G7000 Series</a></li>
-	<li>20401</li>
+	<li>20402</li>
 	</ul>
 
 	</div>
@@ -42,22 +42,22 @@
 		<td></td>
 
 		<td colspan="2">
-		<img src="images/20401.jpg" />
+		<img src="images/20402.jpg" />
 		<div class="panel text-center">
-		<h4>20401</h4>
+		<h4>20402</h4>
 		<h6>G5100</h6>
-		<h4>$2,599.99*</h4>
+		<h4>$2,699.99*</h4>
 		</div>
 		</td>
 
 		<td></td>
 
 		<td colspan="2">
-		<a href="item_detail_98645.php"><img src="images/98645.jpg" /></a>
+		<a href="item_detail_98644.php"><img src="images/98644.jpg" /></a>
 		<div class="panel text-center">
-		<h4><a href="item_detail_98645.php">98645</a></h4>
+		<h4><a href="item_detail_98644.php">98644</a></h4>
 		<h6>G7400</h6>
-		<h4>$2,999.99*</h4>
+		<h4>$3,099.99*</h4>
 		</div>
 		</td>
 

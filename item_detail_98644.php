@@ -23,8 +23,8 @@
 
 	<ul class="breadcrumbs">
 	<li><a href="index.html">HOME</a></li>
-	<li><a href="item_linesheet_husqvarna.php">Husqvarna Brand</a></li>
-	<li>28982</li>
+	<li><a href="item_linesheet_garden.php">G5000/G7000 Series</a></li>
+	<li>98644</li>
 	</ul>
 
 	</div>
@@ -42,13 +42,17 @@
 		<td></td>
 
 		<td colspan="2">
-		<img src="images/28982.jpg" />
+		<img src="images/98644.jpg" />
 		<div class="panel text-center">
-		<h4>28982</h4>
-		<h6>N/A</h6>
-		<h4>$2,999.99*</h4>
+		<h4>98644</h4>
+		<h6>G7400</h6>
+		<h4>$3,099.99*</h4>
 		</div>
 		</td>
+
+		<td></td>
+
+		<td></td>
 
 		</tr>
 
@@ -60,7 +64,7 @@
 
 			<tr>
 			<th class="text-right">Engine Brand</th>
-			<td colspan="2">Kohler Courage</td>
+			<td colspan="2">Kohler 7000 Elite</td>
 			</tr>
 	
 			<tr>
@@ -75,21 +79,33 @@
 	
 			<tr>
 			<th class="text-right">Transmission</th>
-			<td colspan="2">Dual HydroGear&trade; EZT</td>
+			<td colspan="2">Fast Auto Pedal CVT</td>
 			</tr>
 	
 			<tr>
 			<th class="text-right">Deck Size (in)</th>
-			<td colspan="2">54 in.</td>
+			<td colspan="2">54 in.reinforced</td>
 			</tr>
 	
 			<tr>
-			<th class="text-right">Turning Radius (in.)</th>
-			<td colspan="2">0 in.</td>
+			<th class="text-right">Turning Radius (in)</th>
+			<td colspan="2">6</td>
+			</tr>
+
+			<tr>
+			<th class="text-right">Deck Wheels</th>
+			<td colspan="2">4</td>
+			</tr>
+
+			<tr>
+			<th class="text-right">Seat</th>
+			<td colspan="2">High Back</td>
 			</tr>
 
 	
-		<tbody id="add_specs">
+		<tbody id="add_specs" class="hidden">
+
+<tr><th class="text-right">Brand</th><td>Craftsman Pro Series</td></tr><tr><th class="text-right">Engine Size (cc)</th><td colspan="2">725cc</td></tr><tr><th class="text-right">Craftsman Complete Start&trade;</th><td colspan="2">No</td></tr><tr><th class="text-right">Lube</th><td colspan="2">Full Pressure</td></tr><tr><th class="text-right">Axle</th><td colspan="2">Cast Iron</td></tr><tr><th class="text-right">Blade Engagement</th><td colspan="2">Electric</td></tr><tr><th class="text-right">Cutting Positions</th><td colspan="2">10</td></tr><tr><th class="text-right">Deck Wash</th><td colspan="2">Yes</td></tr><tr><th class="text-right">Max Speed (mph)</th><td colspan="2">7.5 mph</td></tr><tr><th class="text-right">Mow in Reverse</th><td colspan="2">Yes</td></tr><tr><th class="text-right">Seat</th><td colspan="2">High Back</td></tr><tr><th class="text-right">Steering Wheel</th><td colspan="2">13in. Soft Grip</td></tr><tr><th class="text-right">Gas Tank Capacity</th><td colspan="2">3.0 gal</td></tr><tr><th class="text-right">Bumper</th><td colspan="2">Yes</td></tr><tr><th class="text-right">Headlights</th><td colspan="2">Yes</td></tr><tr><th class="text-right">Warranty</th><td colspan="2">3 Year</td></tr><tr><th class="text-right">Other</th><td colspan="2">EZ Blade Change</td></tr>
 
 		</tbody>
 
@@ -101,7 +117,9 @@
 			<td></td>
 			</tr>
 
-		<tbody id="add_attachments">
+		<tbody id="add_attachments" class="hidden">
+
+<tr><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr><tr><th class="text-right">ATTACHMENTS</th><th>Stock No.</th><th>Part No.</th></tr><tr><th style="text-align:right">Bagger</th><td>24917</td><td></td></tr><tr><th style="text-align:right">Carts</th><td>24045<br /> 24045<br /> 24489<br /> 24355<br /> 24147<br /> 24065</td><td></td></tr><tr><th style="text-align:right">Bumper Kit</th><td>INCLUDED</td><td></td></tr><tr><th style="text-align:right">Lawn Rollers</th><td>24250<br /> 24251</td><td></td></tr><tr><th style="text-align:right">Sweepers</th><td>24783<br /> 24222<br /> 24644</td><td></td></tr><tr><th style="text-align:right">Dethatcher/Aerators</th><td>24315<br /> 24006<br /> 24336<br /> 24326<br /> 24350</td><td></td></tr><tr><th style="text-align:right">Spreaders</th><td>24322<br /> 24321<br /> 24331<br /> 24009</td><td></td></tr><tr><th style="text-align:right">Sprayers</th><td>24531<br /> 24533</td><td></td></tr><tr><th style="text-align:right">Snow Equipment</th><td>24414<br /> 24837<br /> 25840<br /> 24276<br /> 24868<br /> 24100<br /> 24446</td><td></td></tr><tr><th style="text-align:right">Lawn Vacs</th><td>25012<br /> 25013</td><td></td></tr><tr><th style="text-align:right">Sun Shade</th><td>24230</td><td></td></tr><tr><th style="text-align:right">Ground Engagement</th><td>24205<br /> 24241<br /> 24586<br /> 24537<br /> 24206<br /> 24847<br /> 24003</td><td></td></tr><tr><th style="text-align:right">Mulch Kit</th><td>24154</td><td></td></tr><tr><th style="text-align:right">Weight Kit</th><td>24100</td><td></td></tr><tr><th style="text-align:right">Weight</th><td></td><td></td></tr>
 
 		</tbody>
 
@@ -113,7 +131,9 @@
 			<td></td>
 			</tr>
 
-		<tbody id="add_accessories">
+		<tbody id="add_accessories" class="hidden">
+
+<tr><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr><tr><th class="text-right">ACCESSORIES</th><th>Stock No.</th><th>Part No.</th></tr><tr><th style="text-align:right">Oil Filter</th><td>24606</td><td></td></tr><tr><th style="text-align:right">Air Filter</th><td></td><td>3208309</td></tr><tr><th style="text-align:right">Spark Plug</th><td>33456</td><td></td></tr><tr><th style="text-align:right">Fuel Filter</th><td>33392</td><td></td></tr><tr><th style="text-align:right">Blades</th><td></td><td>581101101</td></tr><tr><th style="text-align:right">Tractor Drive Belt</th><td></td><td>420807</td></tr><tr><th style="text-align:right">Lower Drive Belt</th><td></td><td></td></tr><tr><th style="text-align:right">Deck Belt</th><td>33155</td><td></td></tr><tr><th style="text-align:right">Deck Spindle</th><td></td><td></td></tr><tr><th style="text-align:right">Ignition Key</th><td></td><td></td></tr><tr><th style="text-align:right">Fuel Cap</th><td></td><td></td></tr>
 
 		</tbody>
 
@@ -124,7 +144,6 @@
 			</td>
 			<td></td>
 			</tr>
-
 
 
 		</table>
@@ -192,23 +211,71 @@ $(document).foundation();
 
 $(document).ready(function(){
 
+
 	$("#specs_button").click(function(){
 
-		$("#add_specs").append('<tr><th class="text-right">Brand</th><td colspan="2">Husqvarna</td></tr><tr><th class="text-right">Engine Size (cc)</th><td colspan="2">597cc</td></tr><tr><th class="text-right">Lube</th><td colspan="2">Full Pressure</td></tr><tr><th class="text-right">Axle</th><td colspan="2">N/A</td></tr><tr><th class="text-right">Blade Engagement</th><td colspan="2">Electric</td></tr><tr><th class="text-right">Cutting Positions</th><td colspan="2">6</td></tr><tr><th class="text-right">Deck Wheels</th><td colspan="2">N/A</td></tr><tr><th class="text-right">Deck Wash</th><td colspan="2">Yes</td></tr><tr><th class="text-right">Max Speed (mph)</th><td colspan="2">5.5 mph</td></tr><tr><th class="text-right">Mow in Reverse</th><td colspan="2">Yes</td></tr><tr><th class="text-right">Seat</th><td colspan="2">High Back</td></tr><tr><th class="text-right">Steering Wheel</th><td colspan="2">Lap Bars</td></tr><tr><th class="text-right">Gas Tank Capacity</th><td colspan="2">3.5 gal</td></tr><tr><th class="text-right">Bumper</th><td colspan="2">No</td></tr><tr><th class="text-right">Headlights</th><td colspan="2">No</td></tr><tr><th class="text-right">Warranty</th><td colspan="2">3 Year</td></tr>');
+		$(this).toggleClass('secondary');
 
+		$("#add_specs").toggleClass('hidden');
 
-		$(this).text('Less Specs').addClass('secondary');
+		if($(this).text()=='More Specs')
+		{
+			$(this).text('Less Specs');
+		}
 
-
-		$(this).click(function(){
-			
-			$("#add_specs").hide();
-			$(this).text('More Specs').removeClass('secondary');
-			location.reload();
-
-		});
+		else
+		{
+			$(this).text('More Specs');
+		}
 
 	});
+
+
+
+	$("#attachments_button").click(function(){
+
+		$(this).toggleClass('secondary');
+
+		$("#add_attachments").toggleClass('hidden');
+
+		if($(this).text()=='Attachments')
+		{
+			$(this).text('Hide Attachments');
+		}
+
+		else
+		{
+			$(this).text('Attachments');
+		}
+
+	});
+
+
+
+	$("#accessories_button").click(function(){
+
+		$(this).toggleClass('secondary');
+
+		$("#add_accessories").toggleClass('hidden');
+
+		if($(this).text()=='Accessories')
+		{
+			$(this).text('Hide Accessories');
+		}
+
+		else
+		{
+			$(this).text('Accessories');
+		}
+
+	});
+
+}); // end document ready
+
+</script>
+
+
+<!-- TEMPLATE FOR ACCESSORIES AND ATTACHMENTS 
 
 
 
@@ -309,10 +376,7 @@ $(document).ready(function(){
 
 	});
 
-
-}); // end document ready
-
-</script>
+-->
 
 </body>
 </html>
